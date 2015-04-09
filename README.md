@@ -1,8 +1,6 @@
 # texasadultdrivingscript
 =====================================
 
-In Texas, people between 18 - 24 years of age who are getting their license for the first time need to pass a writing driving test
-
 [texasadultdriver.com/](http://www.texasadultdriver.com/) fulfills the writing section of your Texas driving license test.
 
 
